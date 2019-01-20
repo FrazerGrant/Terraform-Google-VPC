@@ -1,0 +1,5 @@
+credentials = "mineral-anchor-176220-cd6bae45a81a.json"
+project = "mineral-anchor-176220"
+region = "us-central1"
+name = "test"
+subnet_cidr = "10.10.0.0/24"
